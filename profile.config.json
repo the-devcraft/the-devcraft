@@ -1,0 +1,15 @@
+{
+  "pipeline": {
+    "title": "From problem to production",
+    "subtitle": "Understand the need. Build deliberately. Keep improving.",
+    "stages": [
+      {"label": "Understand", "detail": "Users, goals & constraints", "icon": "target"},
+      {"label": "Plan", "detail": "Scope, risks & priorities", "icon": "document"},
+      {"label": "Design", "detail": "Interfaces, APIs & data", "icon": "layers"},
+      {"label": "Build", "detail": "Small, focused changes", "icon": "code"},
+      {"label": "Review", "detail": "Tests, feedback & refinement", "icon": "branch"},
+      {"label": "Release", "detail": "Repeatable, safe delivery", "icon": "deploy"},
+      {"label": "Improve", "detail": "Observe, learn & iterate", "icon": "cycle"}
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="420" viewBox="0 0 1100 420" role="img" aria-labelledby="title desc">
+  <title id="title">Full stack engineering</title><desc id="desc">The Dev Craft. User interfaces, backend services, APIs and data, and automated delivery. From idea to working software.</desc>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0c1017"/><stop offset="1" stop-color="#11151e"/></linearGradient><linearGradient id="line"><stop stop-color="#e78f70"/><stop offset="1" stop-color="#b09ee9"/></linearGradient></defs>
+  <rect x="1" y="1" width="1098" height="418" rx="18" fill="url(#bg)" stroke="#2a3140"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <rect x="38" y="42" width="440" height="332" rx="14" fill="#0e121b" stroke="#2c3445"/>
+    <path d="M52 42H464Q478 42 478 56V80H38V56Q38 42 52 42" fill="#171e2a"/>
+    <circle cx="62" cy="61" r="5" fill="#fb7279"/><circle cx="81" cy="61" r="5" fill="#f5c76a"/><circle cx="100" cy="61" r="5" fill="#6ed48c"/>
+    <text x="360" y="66" fill="#71809b" font-family="monospace" font-size="12" text-anchor="middle">devcraft@workspace ~</text>
+    <g font-family="monospace" font-size="14">
+      <text x="62" y="116" fill="#6ed48c">$ <tspan fill="#f0f2f8">whoami</tspan></text>
+      <text x="62" y="148" fill="#a4adc1">The Dev Craft</text>
+      <text x="62" y="177" fill="#e89679" font-weight="700">→ Senior Software Engineer</text>
+      <text x="62" y="225" fill="#6ed48c">$ <tspan fill="#f0f2f8">devcraft --focus</tspan></text>
+      <text x="62" y="258" fill="#a4adc1"><tspan fill="#e89679">✓</tspan> Thoughtful user experiences</text>
+      <text x="62" y="287" fill="#a4adc1"><tspan fill="#e89679">✓</tspan> Clear application architecture</text>
+      <text x="62" y="316" fill="#a4adc1"><tspan fill="#e89679">✓</tspan> Maintainable, useful software</text>
+      <text x="62" y="351" fill="#6ed48c">$ <tspan fill="#e89679">▌</tspan></text>
+    </g>
+    <g transform="translate(520 42)"><rect width="250" height="104" rx="13" fill="#171c26" stroke="#30384b"/><text x="22" y="29" fill="#e89679" font-size="11" letter-spacing="1.3">01 / FRONTEND</text><text x="22" y="58" fill="#edf0f7" font-size="19" font-weight="700">Interfaces that work</text><text x="22" y="82" fill="#9ca7bc" font-size="12">Responsive · Accessible · Clear</text></g>
+    <g transform="translate(790 42)"><rect width="270" height="104" rx="13" fill="#171c26" stroke="#30384b"/><text x="22" y="29" fill="#e89679" font-size="11" letter-spacing="1.3">02 / BACKEND</text><text x="22" y="58" fill="#edf0f7" font-size="19" font-weight="700">Logic with structure</text><text x="22" y="82" fill="#9ca7bc" font-size="12">Services · Validation · Boundaries</text></g>
+    <g transform="translate(520 164)"><rect width="250" height="104" rx="13" fill="#171c26" stroke="#e89679"/><text x="22" y="29" fill="#e89679" font-size="11" letter-spacing="1.3">03 / APIS &amp; DATA</text><text x="22" y="58" fill="#edf0f7" font-size="19" font-weight="700">Connected systems</text><text x="22" y="82" fill="#9ca7bc" font-size="12">API design · Data · Integrations</text></g>
+    <g transform="translate(790 164)"><rect width="270" height="104" rx="13" fill="#171c26" stroke="#30384b"/><text x="22" y="29" fill="#e89679" font-size="11" letter-spacing="1.3">04 / DELIVERY</text><text x="22" y="58" fill="#edf0f7" font-size="19" font-weight="700">Build. Check. Improve.</text><text x="22" y="82" fill="#9ca7bc" font-size="12">Git · Automated checks · Deployment</text></g>
+    <g transform="translate(520 286)"><rect width="540" height="88" rx="13" fill="#171c26" stroke="#30384b"/><text x="22" y="26" fill="#e89679" font-size="11" letter-spacing="1.3">THE PRODUCT LIFECYCLE</text><text x="22" y="51" fill="#edf0f7" font-size="17" font-weight="700">Idea → Architecture → Build → Deploy → Improve</text><rect x="22" y="66" width="496" height="4" rx="2" fill="url(#line)"/></g>
+  </g>
+</svg>

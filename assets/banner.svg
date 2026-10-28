@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="210" viewBox="0 0 1100 210" role="img" aria-labelledby="title desc">
+  <title id="title">The Dev Craft</title><desc id="desc">Senior Software Engineer. Full Stack Development.</desc>
+  <defs><linearGradient id="banner" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#e69d85"/><stop offset=".48" stop-color="#c88e89"/><stop offset="1" stop-color="#969ce7"/></linearGradient></defs>
+  <style>
+    .float-a{animation:float-a 8s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+    .float-b{animation:float-b 10s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+    @keyframes float-a{0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}
+    @keyframes float-b{0%,100%{transform:translateY(-3px)}50%{transform:translateY(5px)}}
+    @media(prefers-reduced-motion:reduce){.float-a,.float-b{animation:none}}
+  </style>
+  <path d="M0 0H1100V183Q800 158 550 177T0 169Z" fill="url(#banner)"/>
+  <path d="M0 157Q350 190 700 158T1100 154V183Q800 158 550 177T0 169Z" fill="#fff" opacity=".25"/>
+  <g transform="translate(65 45)" opacity=".6"><g class="float-a"><path d="M0 20 32 2 64 20 32 39Z" fill="#fff" fill-opacity=".38" stroke="#fff" stroke-opacity=".6"/><path d="M0 20 32 39V77L0 58Z" fill="#864d69" fill-opacity=".25" stroke="#fff" stroke-opacity=".4"/><path d="M32 39 64 20V58L32 77Z" fill="#fff" fill-opacity=".16" stroke="#fff" stroke-opacity=".4"/></g></g>
+  <g transform="translate(973 44)" opacity=".65"><g class="float-b"><path d="M0 20 32 2 64 20 32 39Z" fill="#fff" fill-opacity=".45" stroke="#fff" stroke-opacity=".7"/><path d="M0 20 32 39V77L0 58Z" fill="#574680" fill-opacity=".3" stroke="#fff" stroke-opacity=".4"/><path d="M32 39 64 20V58L32 77Z" fill="#fff" fill-opacity=".12" stroke="#fff" stroke-opacity=".5"/></g></g>
+  <text x="550" y="92" text-anchor="middle" fill="#fff" font-family="Segoe UI,Arial,sans-serif" font-size="56" font-weight="700" letter-spacing="-1.5">The Dev Craft</text>
+  <text x="550" y="132" text-anchor="middle" fill="#fff" font-family="Segoe UI,Arial,sans-serif" font-size="21" font-weight="600">Senior Software Engineer · Full Stack Development</text>
+</svg>
